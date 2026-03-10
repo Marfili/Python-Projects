@@ -1,4 +1,4 @@
-#Eleni Maria Fili,A.M 4825
+#Eleni Maria Fili
 print('Welcome to #PARTA_OLA game')
 players=eval(input('please give the number of players:'))
 lst=[]
